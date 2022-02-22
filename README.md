@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @poprostugame
+- 👀 I’m interested in C# .Net Core
+- 🌱 I’m currently learning C# .Net Core
